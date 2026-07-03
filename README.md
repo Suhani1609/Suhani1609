@@ -30,7 +30,7 @@ My development approach emphasizes writing maintainable code, designing modular 
 - 🎓 B.E. Computer Engineering (2023–2027)
 - 🏆 CGPA: **9.78**
 - 👩‍💼 Chairperson — ACM Student Chapter
-- 💻 120+ LeetCode problems solved
+- 💻 150+ LeetCode problems solved
 - 🚀 Hackathon Participant (SIH, Odoo, GDG)
 
 ---
